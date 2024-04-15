@@ -1,6 +1,6 @@
 House Price Prediction using Python and Machine Learning Models
 
-- Achieved 44% accuracy using advanced machine learning algorithms and regression techniques.
-- Analyzed critical property features including bedrooms, bathrooms, square footage, and location.
-- Provided actionable insights to enhance decision-making in the real estate market.
-- Enabled accurate price forecasting to assist real estate professionals and potential buyers in assessing property values.
+- Achieved a 44% accuracy milestone by deploying cutting-edge machine learning algorithms and regression methodologies for house price prediction.
+- Conducted in-depth analysis of pivotal property attributes, encompassing bedrooms, bathrooms, square footage, and location, to discern influential factors impacting house prices.
+- Offered actionable insights aimed at optimizing decision-making processes within the real estate sector.
+- Leveraged Python and machine learning models to construct a robust framework for predicting house prices, fostering informed decision-making and comprehensive market analysis.
